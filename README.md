@@ -19,6 +19,19 @@ Once installed set up your preferences.
 Now we must link Webstorm to to GitHub. You must press CTRL+ALt+S. That will open up the settings page. Once that is opened, you go to Version Control, then you will see GitHub. Click that and you will see Add Account in the center. click that and you must click on "log in via GitHub"
 You will then have to sign in to your GitHub account once again. It'll ask you if you Authorize JetBrains. You must accept that for WebStorm to link with your GitHub account.
   
+•	**Branch**A branch is a copy of a code line, managed in a version control system (VCS).
+•	**Clone** cloning is the process of creating an exact copy of another application program or object
+•	**Commit**In a general sense, a commit is the updating of a record in a database
+•	**Fetch** Fetch is the retrieval of data by a software program, script, or hardware device. After being retrieved, the data is moved to an alternate location or displayed on a screen.
+•	**Git**Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development
+•	**Merge** Merge is the process of combining the various versions of a file or folder.
+•	**Merge conflict** Merge conflicts occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file.
+•	**Push**Software that automates the delivery of information to users.  
+•	**Pull** Pull means to request data from another program or computer.
+•	**Remote** Remote access is the ability for an authorized person to access a computer or network from a geographical distance through a network connection.
+•	**Repository** A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+
+  
   References
 •	Branch definition-Code Branching Definition — What Is a Branch? by Brent Scheistl
 •	Clone definition- techopedia.com
