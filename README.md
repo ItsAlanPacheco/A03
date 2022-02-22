@@ -20,14 +20,13 @@ Now we must link Webstorm to to GitHub. You must press CTRL+ALt+S. That will ope
 You will then have to sign in to your GitHub account once again. It'll ask you if you Authorize JetBrains. You must accept that for WebStorm to link with your GitHub account.
   
   References
-Branch defintion-Code Branching Definition — What Is a Branch? by Brent Scheistl
-Clone definition- techopedia.com
-Commit defintion- techopedia.com
-Fetch definiton- computerhope.com
-git definiton - wikipedia.com
-Merge definition-techopedia.com 
-Merge conflict defintion: github.com 
-Push defintion: gartner.com
-Pull defintion: webopedia.com 
-Remote defintion: teachtarget.com
-Repository defintion: github.com
+•	Branch definition-Code Branching Definition — What Is a Branch? by Brent Scheistl
+•	Clone definition- techopedia.com
+•	Commit definition- techopedia.com
+•	Fetch definition- computerhope.com
+•	git definition - wikipedia.com
+•	Merge definition-techopedia.com 
+•	Merge conflict definition: github.com 
+•	Push definition: gartner.com
+•	Pull definition: webopedia.com 
+•	Remote definition: teachtarget.com
